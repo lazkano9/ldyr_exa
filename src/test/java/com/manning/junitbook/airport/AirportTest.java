@@ -28,6 +28,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class AirportTest {
 
+	/*
+	 * Kaixo
+	 */
+	
     @DisplayName("Given there is an economy flight")
     @Nested
     class EconomyFlightTest {
